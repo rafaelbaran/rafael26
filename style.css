@@ -1,7 +1,14 @@
 body {
-    background-color: rgb(246, 155, 37);
+    background-color: rgb(246, 246, 37);
+    color: #ecce0d;
 }
 
 .cabeçalho {
+    background-color: rgba(255, 119, 0, 0.905);
+    color: #f47906;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 24px 0;
     margin-bottom: 0px;
 }
